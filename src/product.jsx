@@ -2,9 +2,13 @@ import React from 'react';
 
 const Product = () => {
   return (
+    <div> 
     <center>
-    hello world 
+ <p>This is product page in product file</p>
     </center>
+    </div>
+  
+    
   );
 }
 
